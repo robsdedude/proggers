@@ -1,0 +1,1 @@
+./exp.sh: line 12: python: command not found

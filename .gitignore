@@ -1,0 +1,3 @@
+db_settings.py
+*.pyc
+*/__pycache__/

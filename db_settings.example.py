@@ -1,0 +1,5 @@
+DB_HOST = "localhost"
+DB_USER = "pguser"
+DB_PASSWORD = "pgpassword"
+DB_NAME = "census"
+DB_TABLE_NAME = "census"

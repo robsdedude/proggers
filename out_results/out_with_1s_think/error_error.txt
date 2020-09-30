@@ -1,0 +1,350 @@
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
+  File "/usr/lib/python3.6/threading.py", line 884, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.6/threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "/home/r_bauer11/proggers_fix_or/proggers/tail_index.py", line 527, in run
+    with lock_ctx_deadlock_check(self.lock):
+Traceback (most recent call last):
+  File "/home/r_bauer11/proggers_fix_or/proggers/util.py", line 187, in acquire_deadlock_check
+    raise RuntimeError('This might be a dead lock')
+RuntimeError: This might be a dead lock
